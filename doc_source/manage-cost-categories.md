@@ -14,7 +14,7 @@ Companies commonly have multiple perspectives on their business, such as project
 You can start using Cost Categories by creating a unique category name\. To configure rules, you'll first enter a value name, then select a dimension you want to use to map the value against\. You can then select the dimension’s attributes\. Category names must be unique, but rule values do not\. The system will evaluate each usage record and add the cost category value if the criteria match\.
 
 **Note**  
-Cost Categories are effective at the start of the current month\. If you create or update your Cost Category in the middle of the month, it will retroactively take effect on cost and usage from the beginning of the month\.
+Cost Categories are effective at the start of the current month\. If you create or update your Cost Category in the middle of the month, it will retroactively take effect on cost and usage from the beginning of the month\. It might take till up to 48 hours to populate the information\.
 
 This is an administrative feature, and can only be customized by Payer accounts in AWS Organizations or Regular accounts\.
 
